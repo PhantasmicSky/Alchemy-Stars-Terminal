@@ -153,6 +153,32 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -609,7 +635,27 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      terminal_zhongduan_icon5_0: 7771372914970185559
+      terminal_zhongduan_icon5_1: -4965501862012196758
+      terminal_zhongduan_icon5_10: -4053436575451003428
+      terminal_zhongduan_icon5_11: 5458115966865794161
+      terminal_zhongduan_icon5_12: 3576326392459216102
+      terminal_zhongduan_icon5_13: 2916465591732762296
+      terminal_zhongduan_icon5_14: -4843886433824283618
+      terminal_zhongduan_icon5_15: -8433174917756210999
+      terminal_zhongduan_icon5_16: 4557550651546979215
+      terminal_zhongduan_icon5_17: 1940273938545019253
+      terminal_zhongduan_icon5_18: -6746775957563169576
+      terminal_zhongduan_icon5_19: -3905772631476242477
+      terminal_zhongduan_icon5_2: -2036946400579071012
+      terminal_zhongduan_icon5_3: -4437164964973700783
+      terminal_zhongduan_icon5_4: -3546917881512825204
+      terminal_zhongduan_icon5_5: -2365827831269433436
+      terminal_zhongduan_icon5_6: -3925218377017476376
+      terminal_zhongduan_icon5_7: -6371614779275355496
+      terminal_zhongduan_icon5_8: -9043090178151969841
+      terminal_zhongduan_icon5_9: 8814856485873050541
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

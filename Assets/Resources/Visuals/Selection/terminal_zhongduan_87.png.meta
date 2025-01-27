@@ -120,6 +120,32 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -334,7 +360,16 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      terminal_zhongduan_87_0: 6233869032508497625
+      terminal_zhongduan_87_1: -7270734744176189424
+      terminal_zhongduan_87_2: 8184877330671956195
+      terminal_zhongduan_87_3: 4127807331838558769
+      terminal_zhongduan_87_4: -5778047135310937702
+      terminal_zhongduan_87_5: 5810010613745969367
+      terminal_zhongduan_87_6: 3857070157740159361
+      terminal_zhongduan_87_7: -8237040184100182799
+      terminal_zhongduan_87_8: -3441687310043767699
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

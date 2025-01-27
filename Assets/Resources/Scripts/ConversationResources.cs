@@ -15,19 +15,30 @@ public class ConversationResources : MonoBehaviour
     public Dictionary<int, ConvoStartMeta> conversationStart;
     public Dictionary<int, ConvoFlowMeta> conversationFlow;
     [SerializeField] private TextAsset convoContent2;
+    [SerializeField] private TextAsset convoVoice;
     public Dictionary<string,string> conversationContent = new Dictionary<string,string>();
     public Dictionary<string, string> conversationContentTemp = new Dictionary<string, string>();
     private Dictionary<int, CharacterDetails> loggedChar = new Dictionary<int, CharacterDetails>();
     private List<int> unitsInside = new List<int>();
     [SerializeField] GameObject contentField;
     [SerializeField] GameObject charPrefab;
+    [SerializeField] private string naviName = "Navigator";
     private void Awake()
     {
         //charNames.characterNames = JsonConvert.DeserializeObject<Dictionary<int, string>>(charList.text);
         characterNames = JsonConvert.DeserializeObject<Dictionary<int, string>>(charList.text);
-        Debug.Log(characterNames[150055]);
+        //Debug.Log(characterNames[1500551]);
         conversationContent = JsonConvert.DeserializeObject<Dictionary<string, string>>(convoContent1.text);
         conversationContentTemp = JsonConvert.DeserializeObject<Dictionary<string, string>>(convoContent2.text);
+        foreach (var kvp in conversationContentTemp)
+        {
+            if (!conversationContent.ContainsKey(kvp.Key))
+            {
+                conversationContent.Add(kvp.Key, kvp.Value);
+            }
+        }
+        conversationContentTemp = new Dictionary<string,string>();
+        conversationContentTemp = JsonConvert.DeserializeObject<Dictionary<string,string>>(convoVoice.text);
         foreach (var kvp in conversationContentTemp)
         {
             if (!conversationContent.ContainsKey(kvp.Key))
@@ -46,25 +57,27 @@ public class ConversationResources : MonoBehaviour
     {
         foreach (var kvp in conversationStart)
         {
-            if (!unitsInside.Contains(kvp.Value.SpeakerId / 10)){
+            int tempSpeakerId = kvp.Value.SpeakerId;
+            if (!unitsInside.Contains(tempSpeakerId)){
                 GameObject temp = Instantiate(charPrefab, contentField.transform);
                 try
                 {
-                    temp.GetComponent<CharacterDetails>().setupEntry(kvp.Value.SpeakerId / 10, characterNames[kvp.Value.SpeakerId / 10]);
+                    temp.GetComponent<CharacterDetails>().setupEntry(tempSpeakerId, characterNames[tempSpeakerId]);
                 }
                 catch
                 {
-                    temp.GetComponent<CharacterDetails>().setupEntry(kvp.Value.SpeakerId / 10, "UNKNOWN");
+                    temp.GetComponent<CharacterDetails>().setupEntry(tempSpeakerId, "UNKNOWN");
                 }
-                unitsInside.Add(kvp.Value.SpeakerId / 10);
-                loggedChar.Add(kvp.Value.SpeakerId / 10, temp.GetComponent<CharacterDetails>());
+                unitsInside.Add(tempSpeakerId);
+                loggedChar.Add(tempSpeakerId, temp.GetComponent<CharacterDetails>());
             }
-            loggedChar[kvp.Value.SpeakerId / 10].addStoryId(kvp.Key);
+            loggedChar[tempSpeakerId].addStoryId(kvp.Key);
         }
     }
     private void testPrint(int id)
     {
-        int cNameId = conversationStart[id].SpeakerId / 10;
+        //int cNameId = conversationStart[id].SpeakerId / 10;
+        int cNameId = conversationStart[id].SpeakerId;
         string cName = characterNames[cNameId];
         int currLine = conversationStart[id].FirstWord;
         bool continuingConversation = true;
@@ -101,5 +114,11 @@ public class ConversationResources : MonoBehaviour
                 continuingConversation = false;
             }
         }
+    }
+    public string getNaviName(){
+        return naviName;
+    }
+    public void setNaviName(string chosenName){
+        naviName = chosenName;
     }
 }

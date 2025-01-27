@@ -1,6 +1,7 @@
 using NUnit.Framework;
 using UnityEngine;
 using System.Collections.Generic;
+using Unity.VisualScripting;
 
 public class CharacterSelector : MonoBehaviour
 {
@@ -40,15 +41,15 @@ public class CharacterSelector : MonoBehaviour
             }
         }
         //Remove all buttons
-        foreach (Transform child in terminalStoryBase)
-        {
+        //foreach (Transform child in terminalStoryBase)
+        //{
             int ccount = terminalStoryBase.childCount;
             //DestroyImmediate(child.gameObject);
             for (int i = ccount-1; i >= 0; i--)
             {
                 GameObject.DestroyImmediate(terminalStoryBase.transform.GetChild(i).gameObject);
             }
-        }
+        //}
         //Remove actual terminal
         foreach(Transform child in terminalStoryWindow)
         {
@@ -73,5 +74,25 @@ public class CharacterSelector : MonoBehaviour
     {
         GameObject tempTerminal = Instantiate(terminalPrefab, terminalStoryWindow);
         tempTerminal.GetComponent<DialogueInfo>().populateBaseInfo(storyId);
+    }
+    public void searchAurorian(string searchString){
+        if(searchString != ""){
+            foreach(Transform child in this.transform){
+                if(!child.GetComponent<CharacterDetails>().getCharName().StartsWith(searchString)){
+                    child.gameObject.SetActive(false);
+                    //child.localScale = new Vector3(0,0,0);
+                }
+                else{
+                    child.gameObject.SetActive(true);
+                    //child.localScale = new Vector3(1,1,1);
+                }
+            }
+        }
+        else{
+            foreach(Transform child in this.transform){
+                child.gameObject.SetActive(true);
+                //child.localScale = new Vector3(1,1,1);
+            }
+        }
     }
 }

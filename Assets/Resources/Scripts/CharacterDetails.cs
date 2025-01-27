@@ -63,4 +63,7 @@ public class CharacterDetails : MonoBehaviour, IPointerEnterHandler, IPointerExi
     {
         return active;
     }
+    public string getCharName(){
+        return charNameStr;
+    }
 }
