@@ -1,0 +1,1500 @@
+{
+  "1200501": {
+    "ID": 1200501,
+    "Icon": "team_1200501_card",
+    "Name": "str_pet_name_1200501",
+    "SpeakerType": 1,
+    "TemplateID": 1200501
+  },
+  "1201631": {
+    "ID": 1201631,
+    "Icon": "team_1201631_card",
+    "Name": "str_pet_name_1201631",
+    "SpeakerType": 1,
+    "TemplateID": 1201631
+  },
+  "1202261": {
+    "ID": 1202261,
+    "Icon": "team_1202261_card",
+    "Name": "str_pet_name_1202261",
+    "SpeakerType": 1,
+    "TemplateID": 1202261
+  },
+  "1300221": {
+    "ID": 1300221,
+    "Icon": "team_1300221_card",
+    "Name": "str_pet_name_1300221",
+    "SpeakerType": 1,
+    "TemplateID": 1300221
+  },
+  "1300461": {
+    "ID": 1300461,
+    "Icon": "team_1300461_card",
+    "Name": "str_pet_name_1300461",
+    "SpeakerType": 1,
+    "TemplateID": 1300461
+  },
+  "1300471": {
+    "ID": 1300471,
+    "Icon": "team_1300471_card",
+    "Name": "str_pet_name_1300471",
+    "SpeakerType": 1,
+    "TemplateID": 1300471
+  },
+  "1300491": {
+    "ID": 1300491,
+    "Icon": "team_1300491_card",
+    "Name": "str_pet_name_1300491",
+    "SpeakerType": 1,
+    "TemplateID": 1300491
+  },
+  "1300511": {
+    "ID": 1300511,
+    "Icon": "team_1300511_card",
+    "Name": "str_pet_name_1300511",
+    "SpeakerType": 1,
+    "TemplateID": 1300511
+  },
+  "1300521": {
+    "ID": 1300521,
+    "Icon": "team_1300521_card",
+    "Name": "str_pet_name_1300521",
+    "SpeakerType": 1,
+    "TemplateID": 1300521
+  },
+  "1300531": {
+    "ID": 1300531,
+    "Icon": "team_1300531_card",
+    "Name": "str_pet_name_1300531",
+    "SpeakerType": 1,
+    "TemplateID": 1300531
+  },
+  "1300581": {
+    "ID": 1300581,
+    "Icon": "team_1300581_card",
+    "Name": "str_pet_name_1300581",
+    "SpeakerType": 1,
+    "TemplateID": 1300581
+  },
+  "1300591": {
+    "ID": 1300591,
+    "Icon": "team_1300591_card",
+    "Name": "str_pet_name_1300591",
+    "SpeakerType": 1,
+    "TemplateID": 1300591
+  },
+  "1300651": {
+    "ID": 1300651,
+    "Icon": "team_1300651_card",
+    "Name": "str_pet_name_1300651",
+    "SpeakerType": 1,
+    "TemplateID": 1300651
+  },
+  "1300741": {
+    "ID": 1300741,
+    "Icon": "team_1300741_card",
+    "Name": "str_pet_name_1300741",
+    "SpeakerType": 1,
+    "TemplateID": 1300741
+  },
+  "1300801": {
+    "ID": 1300801,
+    "Icon": "team_1300801_card",
+    "Name": "str_pet_name_1300801",
+    "SpeakerType": 1,
+    "TemplateID": 1300801
+  },
+  "1300821": {
+    "ID": 1300821,
+    "Icon": "team_1300821_card",
+    "Name": "str_pet_name_1300821",
+    "SpeakerType": 1,
+    "TemplateID": 1300821
+  },
+  "1300871": {
+    "ID": 1300871,
+    "Icon": "team_1300871_card",
+    "Name": "str_pet_name_1300871",
+    "SpeakerType": 1,
+    "TemplateID": 1300871
+  },
+  "1300941": {
+    "ID": 1300941,
+    "Icon": "team_1300941_card",
+    "Name": "str_pet_name_1300941",
+    "SpeakerType": 1,
+    "TemplateID": 1300941
+  },
+  "1400071": {
+    "ID": 1400071,
+    "Icon": "team_1400071_card",
+    "Name": "str_pet_name_1400071",
+    "SpeakerType": 1,
+    "TemplateID": 1400071
+  },
+  "1400081": {
+    "ID": 1400081,
+    "Icon": "team_1400081_card",
+    "Name": "str_pet_name_1400081",
+    "SpeakerType": 1,
+    "TemplateID": 1400081
+  },
+  "1400161": {
+    "ID": 1400161,
+    "Icon": "team_1400161_card",
+    "Name": "str_pet_name_1400161",
+    "SpeakerType": 1,
+    "TemplateID": 1400161
+  },
+  "1400171": {
+    "ID": 1400171,
+    "Icon": "team_1400171_card",
+    "Name": "str_pet_name_1400171",
+    "SpeakerType": 1,
+    "TemplateID": 1400171
+  },
+  "1400321": {
+    "ID": 1400321,
+    "Icon": "team_1400321_card",
+    "Name": "str_pet_name_1400321",
+    "SpeakerType": 1,
+    "TemplateID": 1400321
+  },
+  "1400351": {
+    "ID": 1400351,
+    "Icon": "team_1400351_card",
+    "Name": "str_pet_name_1400351",
+    "SpeakerType": 1,
+    "TemplateID": 1400351
+  },
+  "1400401": {
+    "ID": 1400401,
+    "Icon": "team_1400401_card",
+    "Name": "str_pet_name_1400401",
+    "SpeakerType": 1,
+    "TemplateID": 1400401
+  },
+  "1400411": {
+    "ID": 1400411,
+    "Icon": "team_1400411_card",
+    "Name": "str_pet_name_1400411",
+    "SpeakerType": 1,
+    "TemplateID": 1400411
+  },
+  "1400441": {
+    "ID": 1400441,
+    "Icon": "team_1400441_card",
+    "Name": "str_pet_name_1400441",
+    "SpeakerType": 1,
+    "TemplateID": 1400441
+  },
+  "1400451": {
+    "ID": 1400451,
+    "Icon": "team_1400451_card",
+    "Name": "str_pet_name_1400451",
+    "SpeakerType": 1,
+    "TemplateID": 1400451
+  },
+  "1400481": {
+    "ID": 1400481,
+    "Icon": "team_1400481_card",
+    "Name": "str_pet_name_1400481",
+    "SpeakerType": 1,
+    "TemplateID": 1400481
+  },
+  "1400541": {
+    "ID": 1400541,
+    "Icon": "team_1400541_card",
+    "Name": "str_pet_name_1400541",
+    "SpeakerType": 1,
+    "TemplateID": 1400541
+  },
+  "1400571": {
+    "ID": 1400571,
+    "Icon": "team_1400571_card",
+    "Name": "str_pet_name_1400571",
+    "SpeakerType": 1,
+    "TemplateID": 1400571
+  },
+  "1400611": {
+    "ID": 1400611,
+    "Icon": "team_1400611_card",
+    "Name": "str_pet_name_1400611",
+    "SpeakerType": 1,
+    "TemplateID": 1400611
+  },
+  "1400621": {
+    "ID": 1400621,
+    "Icon": "team_1400621_card",
+    "Name": "str_pet_name_1400621",
+    "SpeakerType": 1,
+    "TemplateID": 1400621
+  },
+  "1400671": {
+    "ID": 1400671,
+    "Icon": "team_1400671_card",
+    "Name": "str_pet_name_1400671",
+    "SpeakerType": 1,
+    "TemplateID": 1400671
+  },
+  "1400681": {
+    "ID": 1400681,
+    "Icon": "team_1400681_card",
+    "Name": "str_pet_name_1400681",
+    "SpeakerType": 1,
+    "TemplateID": 1400681
+  },
+  "1400731": {
+    "ID": 1400731,
+    "Icon": "team_1400731_card",
+    "Name": "str_pet_name_1400731",
+    "SpeakerType": 1,
+    "TemplateID": 1400731
+  },
+  "1400791": {
+    "ID": 1400791,
+    "Icon": "team_1400791_card",
+    "Name": "str_pet_name_1400791",
+    "SpeakerType": 1,
+    "TemplateID": 1400791
+  },
+  "1400811": {
+    "ID": 1400811,
+    "Icon": "team_1400811_card",
+    "Name": "str_pet_name_1400811",
+    "SpeakerType": 1,
+    "TemplateID": 1400811
+  },
+  "1400831": {
+    "ID": 1400831,
+    "Icon": "team_1400831_card",
+    "Name": "str_pet_name_1400831",
+    "SpeakerType": 1,
+    "TemplateID": 1400831
+  },
+  "1400851": {
+    "ID": 1400851,
+    "Icon": "team_1400851_card",
+    "Name": "str_pet_name_1400851",
+    "SpeakerType": 1,
+    "TemplateID": 1400851
+  },
+  "1400861": {
+    "ID": 1400861,
+    "Icon": "team_1400861_card",
+    "Name": "str_pet_name_1400861",
+    "SpeakerType": 1,
+    "TemplateID": 1400861
+  },
+  "1400911": {
+    "ID": 1400911,
+    "Icon": "team_1400911_card",
+    "Name": "str_pet_name_1400911",
+    "SpeakerType": 1,
+    "TemplateID": 1400911
+  },
+  "1400951": {
+    "ID": 1400951,
+    "Icon": "team_1400951_card",
+    "Name": "str_pet_name_1400951",
+    "SpeakerType": 1,
+    "TemplateID": 1400951
+  },
+  "1401011": {
+    "ID": 1401011,
+    "Icon": "team_1401011_card",
+    "Name": "str_pet_name_1401011",
+    "SpeakerType": 1,
+    "TemplateID": 1401011
+  },
+  "1401021": {
+    "ID": 1401021,
+    "Icon": "team_1401021_card",
+    "Name": "str_pet_name_1401021",
+    "SpeakerType": 1,
+    "TemplateID": 1401021
+  },
+  "1401271": {
+    "ID": 1401271,
+    "Icon": "team_1401271_card",
+    "Name": "str_pet_name_1401271",
+    "SpeakerType": 1,
+    "TemplateID": 1401271
+  },
+  "1401371": {
+    "ID": 1401371,
+    "Icon": "team_1401371_card",
+    "Name": "str_pet_name_1401371",
+    "SpeakerType": 1,
+    "TemplateID": 1401371
+  },
+  "1401691": {
+    "ID": 1401691,
+    "Icon": "team_1401691_card",
+    "Name": "str_pet_name_1401691",
+    "SpeakerType": 1,
+    "TemplateID": 1401691
+  },
+  "1500091": {
+    "ID": 1500091,
+    "Icon": "team_1500091_card",
+    "Name": "str_pet_name_1500091",
+    "SpeakerType": 1,
+    "TemplateID": 1500091
+  },
+  "1500121": {
+    "ID": 1500121,
+    "Icon": "team_1500121_card",
+    "Name": "str_pet_name_1500121",
+    "SpeakerType": 1,
+    "TemplateID": 1500121
+  },
+  "1500131": {
+    "ID": 1500131,
+    "Icon": "team_1500131_card",
+    "Name": "str_pet_name_1500131",
+    "SpeakerType": 1,
+    "TemplateID": 1500131
+  },
+  "1500151": {
+    "ID": 1500151,
+    "Icon": "team_1500151_card",
+    "Name": "str_pet_name_1500151",
+    "SpeakerType": 1,
+    "TemplateID": 1500151
+  },
+  "1500181": {
+    "ID": 1500181,
+    "Icon": "team_1500181_card",
+    "Name": "str_pet_name_1500181",
+    "SpeakerType": 1,
+    "TemplateID": 1500181
+  },
+  "1500201": {
+    "ID": 1500201,
+    "Icon": "team_1500201_card",
+    "Name": "str_pet_name_1500201",
+    "SpeakerType": 1,
+    "TemplateID": 1500201
+  },
+  "1500211": {
+    "ID": 1500211,
+    "Icon": "team_1500211_card",
+    "Name": "str_pet_name_1500211",
+    "SpeakerType": 1,
+    "TemplateID": 1500211
+  },
+  "1500241": {
+    "ID": 1500241,
+    "Icon": "team_1500241_card",
+    "Name": "str_pet_name_1500241",
+    "SpeakerType": 1,
+    "TemplateID": 1500241
+  },
+  "1500311": {
+    "ID": 1500311,
+    "Icon": "team_1500311_card",
+    "Name": "str_pet_name_1500311",
+    "SpeakerType": 1,
+    "TemplateID": 1500311
+  },
+  "1500331": {
+    "ID": 1500331,
+    "Icon": "team_1500331_card",
+    "Name": "str_pet_name_1500331",
+    "SpeakerType": 1,
+    "TemplateID": 1500331
+  },
+  "1500341": {
+    "ID": 1500341,
+    "Icon": "team_1500341_card",
+    "Name": "str_pet_name_1500341",
+    "SpeakerType": 1,
+    "TemplateID": 1500341
+  },
+  "1500361": {
+    "ID": 1500361,
+    "Icon": "team_1500361_card",
+    "Name": "str_pet_name_1500361",
+    "SpeakerType": 1,
+    "TemplateID": 1500361
+  },
+  "1500421": {
+    "ID": 1500421,
+    "Icon": "team_1500421_card",
+    "Name": "str_pet_name_1500421",
+    "SpeakerType": 1,
+    "TemplateID": 1500421
+  },
+  "1500551": {
+    "ID": 1500551,
+    "Icon": "team_1500551_card",
+    "Name": "str_pet_name_1500551",
+    "SpeakerType": 1,
+    "TemplateID": 1500551
+  },
+  "1500561": {
+    "ID": 1500561,
+    "Icon": "team_1500561_card",
+    "Name": "str_pet_name_1500561",
+    "SpeakerType": 1,
+    "TemplateID": 1500561
+  },
+  "1500701": {
+    "ID": 1500701,
+    "Icon": "team_1500701_card",
+    "Name": "str_pet_name_1500701",
+    "SpeakerType": 1,
+    "TemplateID": 1500701
+  },
+  "1500711": {
+    "ID": 1500711,
+    "Icon": "team_1500711_card",
+    "Name": "str_pet_name_1500711",
+    "SpeakerType": 1,
+    "TemplateID": 1500711
+  },
+  "1500751": {
+    "ID": 1500751,
+    "Icon": "team_1500751_card",
+    "Name": "str_pet_name_1500751",
+    "SpeakerType": 1,
+    "TemplateID": 1500751
+  },
+  "1500761": {
+    "ID": 1500761,
+    "Icon": "team_1500761_card",
+    "Name": "str_pet_name_1500761",
+    "SpeakerType": 1,
+    "TemplateID": 1500761
+  },
+  "1500781": {
+    "ID": 1500781,
+    "Icon": "team_1500781_card",
+    "Name": "str_pet_name_1500781",
+    "SpeakerType": 1,
+    "TemplateID": 1500781
+  },
+  "1500841": {
+    "ID": 1500841,
+    "Icon": "team_1500841_card",
+    "Name": "str_pet_name_1500841",
+    "SpeakerType": 1,
+    "TemplateID": 1500841
+  },
+  "1500871": {
+    "ID": 1500871,
+    "Icon": "team_1500871_card",
+    "Name": "str_pet_name_1500871",
+    "SpeakerType": 1,
+    "TemplateID": 1500871
+  },
+  "1500881": {
+    "ID": 1500881,
+    "Icon": "team_1500881_card",
+    "Name": "str_pet_name_1500881",
+    "SpeakerType": 1,
+    "TemplateID": 1500881
+  },
+  "1500901": {
+    "ID": 1500901,
+    "Icon": "team_1500901_card",
+    "Name": "str_pet_name_1500901",
+    "SpeakerType": 1,
+    "TemplateID": 1500901
+  },
+  "1500921": {
+    "ID": 1500921,
+    "Icon": "team_1500921_card",
+    "Name": "str_pet_name_1500921",
+    "SpeakerType": 1,
+    "TemplateID": 1500921
+  },
+  "1500971": {
+    "ID": 1500971,
+    "Icon": "team_1500971_card",
+    "Name": "str_pet_name_1500971",
+    "SpeakerType": 1,
+    "TemplateID": 1500971
+  },
+  "1500981": {
+    "ID": 1500981,
+    "Icon": "team_1500981_card",
+    "Name": "str_pet_name_1500981",
+    "SpeakerType": 1,
+    "TemplateID": 1500981
+  },
+  "1500991": {
+    "ID": 1500991,
+    "Icon": "team_1500991_card",
+    "Name": "str_pet_name_1500991",
+    "SpeakerType": 1,
+    "TemplateID": 1500991
+  },
+  "1501001": {
+    "ID": 1501001,
+    "Icon": "team_1501001_card",
+    "Name": "str_pet_name_1501001",
+    "SpeakerType": 1,
+    "TemplateID": 1501001
+  },
+  "1501041": {
+    "ID": 1501041,
+    "Icon": "team_1501041_card",
+    "Name": "str_pet_name_1501041",
+    "SpeakerType": 1,
+    "TemplateID": 1501041
+  },
+  "1501131": {
+    "ID": 1501131,
+    "Icon": "team_1501131_card",
+    "Name": "str_pet_name_1501131",
+    "SpeakerType": 1,
+    "TemplateID": 1501131
+  },
+  "1501141": {
+    "ID": 1501141,
+    "Icon": "team_1501141_card",
+    "Name": "str_pet_name_1501141",
+    "SpeakerType": 1,
+    "TemplateID": 1501141
+  },
+  "1501301": {
+    "ID": 1501301,
+    "Icon": "team_1501301_card",
+    "Name": "str_pet_name_1501301",
+    "SpeakerType": 1,
+    "TemplateID": 1501301
+  },
+  "1501321": {
+    "ID": 1501321,
+    "Icon": "team_1501321_card",
+    "Name": "str_pet_name_1501321",
+    "SpeakerType": 1,
+    "TemplateID": 1501321
+  },
+  "1501351": {
+    "ID": 1501351,
+    "Icon": "team_1501351_card",
+    "Name": "str_pet_name_1501351",
+    "SpeakerType": 1,
+    "TemplateID": 1501351
+  },
+  "1501361": {
+    "ID": 1501361,
+    "Icon": "team_1501361_card",
+    "Name": "str_pet_name_1501361",
+    "SpeakerType": 1,
+    "TemplateID": 1501361
+  },
+  "1501391": {
+    "ID": 1501391,
+    "Icon": "team_1501391_card",
+    "Name": "str_pet_name_1501391",
+    "SpeakerType": 1,
+    "TemplateID": 1501391
+  },
+  "1501421": {
+    "ID": 1501421,
+    "Icon": "team_1501421_card",
+    "Name": "str_pet_name_1501421",
+    "SpeakerType": 1,
+    "TemplateID": 1501421
+  },
+  "1501441": {
+    "ID": 1501441,
+    "Icon": "team_1501441_card",
+    "Name": "str_pet_name_1501441",
+    "SpeakerType": 1,
+    "TemplateID": 1501441
+  },
+  "1501471": {
+    "ID": 1501471,
+    "Icon": "team_1501471_card",
+    "Name": "str_pet_name_1501471",
+    "SpeakerType": 1,
+    "TemplateID": 1501471
+  },
+  "1501491": {
+    "ID": 1501491,
+    "Icon": "team_1501491_card",
+    "Name": "str_pet_name_1501491",
+    "SpeakerType": 1,
+    "TemplateID": 1501491
+  },
+  "1501521": {
+    "ID": 1501521,
+    "Icon": "team_1501521_card",
+    "Name": "str_pet_name_1501521",
+    "SpeakerType": 1,
+    "TemplateID": 1501521
+  },
+  "1501571": {
+    "ID": 1501571,
+    "Icon": "team_1501571_card",
+    "Name": "str_pet_name_1501571",
+    "SpeakerType": 1,
+    "TemplateID": 1501571
+  },
+  "1501651": {
+    "ID": 1501651,
+    "Icon": "team_1501651_card",
+    "Name": "str_pet_name_1501651",
+    "SpeakerType": 1,
+    "TemplateID": 1501651
+  },
+  "1501681": {
+    "ID": 1501681,
+    "Icon": "team_1501681_card",
+    "Name": "str_pet_name_1501681",
+    "SpeakerType": 1,
+    "TemplateID": 1501681
+  },
+  "1501711": {
+    "ID": 1501711,
+    "Icon": "team_1501711_card",
+    "Name": "str_pet_name_1501711",
+    "SpeakerType": 1,
+    "TemplateID": 1501711
+  },
+  "1501761": {
+    "ID": 1501761,
+    "Icon": "team_1501761_card",
+    "Name": "str_pet_name_1501761",
+    "SpeakerType": 1,
+    "TemplateID": 1501761
+  },
+  "1501801": {
+    "ID": 1501801,
+    "Icon": "team_1501801_card",
+    "Name": "str_pet_name_1501801",
+    "SpeakerType": 1,
+    "TemplateID": 1501801
+  },
+  "1501831": {
+    "ID": 1501831,
+    "Icon": "team_1501831_card",
+    "Name": "str_pet_name_1501831",
+    "SpeakerType": 1,
+    "TemplateID": 1501831
+  },
+  "1501851": {
+    "ID": 1501851,
+    "Icon": "team_1501851_card",
+    "Name": "str_pet_name_1501851",
+    "SpeakerType": 1,
+    "TemplateID": 1501851
+  },
+  "1501871": {
+    "ID": 1501871,
+    "Icon": "team_1501871_card",
+    "Name": "str_pet_name_1501871",
+    "SpeakerType": 1,
+    "TemplateID": 1501871
+  },
+  "1501901": {
+    "ID": 1501901,
+    "Icon": "team_1501901_card",
+    "Name": "str_pet_name_1501901",
+    "SpeakerType": 1,
+    "TemplateID": 1501901
+  },
+  "1501931": {
+    "ID": 1501931,
+    "Icon": "team_1501931_card",
+    "Name": "str_pet_name_1501931",
+    "SpeakerType": 1,
+    "TemplateID": 1501931
+  },
+  "1502001": {
+    "ID": 1502001,
+    "Icon": "team_1502001_card",
+    "Name": "str_pet_name_1502001",
+    "SpeakerType": 1,
+    "TemplateID": 1502001
+  },
+  "1502031": {
+    "ID": 1502031,
+    "Icon": "team_1502031_card",
+    "Name": "str_pet_name_1502031",
+    "SpeakerType": 1,
+    "TemplateID": 1502031
+  },
+  "1502051": {
+    "ID": 1502051,
+    "Icon": "team_1502051_card",
+    "Name": "str_pet_name_1502051",
+    "SpeakerType": 1,
+    "TemplateID": 1502051
+  },
+  "1502081": {
+    "ID": 1502081,
+    "Icon": "team_1502081_card",
+    "Name": "str_pet_name_1502081",
+    "SpeakerType": 1,
+    "TemplateID": 1502081
+  },
+  "1502101": {
+    "ID": 1502101,
+    "Icon": "team_1502101_card",
+    "Name": "str_pet_name_1502101",
+    "SpeakerType": 1,
+    "TemplateID": 1502101
+  },
+  "1502131": {
+    "ID": 1502131,
+    "Icon": "team_1502131_card",
+    "Name": "str_pet_name_1502131",
+    "SpeakerType": 1,
+    "TemplateID": 1502131
+  },
+  "1502151": {
+    "ID": 1502151,
+    "Icon": "team_1502151_card",
+    "Name": "str_pet_name_1502151",
+    "SpeakerType": 1,
+    "TemplateID": 1502151
+  },
+  "1502201": {
+    "ID": 1502201,
+    "Icon": "team_1502201_card",
+    "Name": "str_pet_name_1502201",
+    "SpeakerType": 1,
+    "TemplateID": 1502201
+  },
+  "1502241": {
+    "ID": 1502241,
+    "Icon": "team_1502241_card",
+    "Name": "str_pet_name_1502241",
+    "SpeakerType": 1,
+    "TemplateID": 1502241
+  },
+  "1502281": {
+    "ID": 1502281,
+    "Icon": "team_1502281_card",
+    "Name": "str_pet_name_1502281",
+    "SpeakerType": 1,
+    "TemplateID": 1502281
+  },
+  "1502321": {
+    "ID": 1502321,
+    "Icon": "team_1502321_card",
+    "Name": "str_pet_name_1502321",
+    "SpeakerType": 1,
+    "TemplateID": 1502321
+  },
+  "1502351": {
+    "ID": 1502351,
+    "Icon": "team_1502351_card",
+    "Name": "str_pet_name_1502351",
+    "SpeakerType": 1,
+    "TemplateID": 1502351
+  },
+  "1600011": {
+    "ID": 1600011,
+    "Icon": "team_1600011_card",
+    "Name": "str_pet_name_1600011",
+    "SpeakerType": 1,
+    "TemplateID": 1600011
+  },
+  "1600021": {
+    "ID": 1600021,
+    "Icon": "team_1600021_card",
+    "Name": "str_pet_name_1600021",
+    "SpeakerType": 1,
+    "TemplateID": 1600021
+  },
+  "1600031": {
+    "ID": 1600031,
+    "Icon": "team_1600031_card",
+    "Name": "str_pet_name_1600031",
+    "SpeakerType": 1,
+    "TemplateID": 1600031
+  },
+  "1600041": {
+    "ID": 1600041,
+    "Icon": "team_1600041_card",
+    "Name": "str_pet_name_1600041",
+    "SpeakerType": 1,
+    "TemplateID": 1600041
+  },
+  "1600051": {
+    "ID": 1600051,
+    "Icon": "team_1600051_card",
+    "Name": "str_pet_name_1600051",
+    "SpeakerType": 1,
+    "TemplateID": 1600051
+  },
+  "1600061": {
+    "ID": 1600061,
+    "Icon": "team_1600061_card",
+    "Name": "str_pet_name_1600061",
+    "SpeakerType": 1,
+    "TemplateID": 1600061
+  },
+  "1600101": {
+    "ID": 1600101,
+    "Icon": "team_1600101_card",
+    "Name": "str_pet_name_1600101",
+    "SpeakerType": 1,
+    "TemplateID": 1600101
+  },
+  "1600111": {
+    "ID": 1600111,
+    "Icon": "team_1600111_card",
+    "Name": "str_pet_name_1600111",
+    "SpeakerType": 1,
+    "TemplateID": 1600111
+  },
+  "1600141": {
+    "ID": 1600141,
+    "Icon": "team_1600141_card",
+    "Name": "str_pet_name_1600141",
+    "SpeakerType": 1,
+    "TemplateID": 1600141
+  },
+  "1600191": {
+    "ID": 1600191,
+    "Icon": "team_1600191_card",
+    "Name": "str_pet_name_1600191",
+    "SpeakerType": 1,
+    "TemplateID": 1600191
+  },
+  "1600231": {
+    "ID": 1600231,
+    "Icon": "team_1600231_card",
+    "Name": "str_pet_name_1600231",
+    "SpeakerType": 1,
+    "TemplateID": 1600231
+  },
+  "1600251": {
+    "ID": 1600251,
+    "Icon": "team_1600251_card",
+    "Name": "str_pet_name_1600251",
+    "SpeakerType": 1,
+    "TemplateID": 1600251
+  },
+  "1600261": {
+    "ID": 1600261,
+    "Icon": "team_1600261_card",
+    "Name": "str_pet_name_1600261",
+    "SpeakerType": 1,
+    "TemplateID": 1600261
+  },
+  "1600271": {
+    "ID": 1600271,
+    "Icon": "team_1600271_card",
+    "Name": "str_pet_name_1600271",
+    "SpeakerType": 1,
+    "TemplateID": 1600271
+  },
+  "1600281": {
+    "ID": 1600281,
+    "Icon": "team_1600281_card",
+    "Name": "str_pet_name_1600281",
+    "SpeakerType": 1,
+    "TemplateID": 1600281
+  },
+  "1600291": {
+    "ID": 1600291,
+    "Icon": "team_1600291_card",
+    "Name": "str_pet_name_1600291",
+    "SpeakerType": 1,
+    "TemplateID": 1600291
+  },
+  "1600301": {
+    "ID": 1600301,
+    "Icon": "team_1600301_card",
+    "Name": "str_pet_name_1600301",
+    "SpeakerType": 1,
+    "TemplateID": 1600301
+  },
+  "1600381": {
+    "ID": 1600381,
+    "Icon": "team_1600381_card",
+    "Name": "str_pet_name_1600381",
+    "SpeakerType": 1,
+    "TemplateID": 1600381
+  },
+  "1600601": {
+    "ID": 1600601,
+    "Icon": "team_1600601_card",
+    "Name": "str_pet_name_1600601",
+    "SpeakerType": 1,
+    "TemplateID": 1600601
+  },
+  "1600641": {
+    "ID": 1600641,
+    "Icon": "team_1600641_card",
+    "Name": "str_pet_name_1600641",
+    "SpeakerType": 1,
+    "TemplateID": 1600641
+  },
+  "1600771": {
+    "ID": 1600771,
+    "Icon": "team_1600771_card",
+    "Name": "str_pet_name_1600771",
+    "SpeakerType": 1,
+    "TemplateID": 1600771
+  },
+  "1600891": {
+    "ID": 1600891,
+    "Icon": "team_1600891_card",
+    "Name": "str_pet_name_1600891",
+    "SpeakerType": 1,
+    "TemplateID": 1600891
+  },
+  "1600931": {
+    "ID": 1600931,
+    "Icon": "team_1600931_card",
+    "Name": "str_pet_name_1600931",
+    "SpeakerType": 1,
+    "TemplateID": 1600931
+  },
+  "1600961": {
+    "ID": 1600961,
+    "Icon": "team_1600961_card",
+    "Name": "str_pet_name_1600961",
+    "SpeakerType": 1,
+    "TemplateID": 1600961
+  },
+  "1601031": {
+    "ID": 1601031,
+    "Icon": "team_1601031_card",
+    "Name": "str_pet_name_1601031",
+    "SpeakerType": 1,
+    "TemplateID": 1601031
+  },
+  "1601051": {
+    "ID": 1601051,
+    "Icon": "team_1601051_card",
+    "Name": "str_pet_name_1601051",
+    "SpeakerType": 1,
+    "TemplateID": 1601051
+  },
+  "1601111": {
+    "ID": 1601111,
+    "Icon": "team_1601111_card",
+    "Name": "str_pet_name_1601111",
+    "SpeakerType": 1,
+    "TemplateID": 1601111
+  },
+  "1601121": {
+    "ID": 1601121,
+    "Icon": "team_1601121_card",
+    "Name": "str_pet_name_1601121",
+    "SpeakerType": 1,
+    "TemplateID": 1601121
+  },
+  "1601151": {
+    "ID": 1601151,
+    "Icon": "team_1601151_card",
+    "Name": "str_pet_name_1601151",
+    "SpeakerType": 1,
+    "TemplateID": 1601151
+  },
+  "1601161": {
+    "ID": 1601161,
+    "Icon": "team_1601161_card",
+    "Name": "str_pet_name_1601161",
+    "SpeakerType": 1,
+    "TemplateID": 1601161
+  },
+  "1601171": {
+    "ID": 1601171,
+    "Icon": "team_1601171_card",
+    "Name": "str_pet_name_1601171",
+    "SpeakerType": 1,
+    "TemplateID": 1601171
+  },
+  "1601191": {
+    "ID": 1601191,
+    "Icon": "team_1601191_card",
+    "Name": "str_pet_name_1601191",
+    "SpeakerType": 1,
+    "TemplateID": 1601191
+  },
+  "1601201": {
+    "ID": 1601201,
+    "Icon": "team_1601201_card",
+    "Name": "str_pet_name_1601201",
+    "SpeakerType": 1,
+    "TemplateID": 1601201
+  },
+  "1601211": {
+    "ID": 1601211,
+    "Icon": "team_1601211_card",
+    "Name": "str_pet_name_1601211",
+    "SpeakerType": 1,
+    "TemplateID": 1601211
+  },
+  "1601221": {
+    "ID": 1601221,
+    "Icon": "team_1601221_card",
+    "Name": "str_pet_name_1601221",
+    "SpeakerType": 1,
+    "TemplateID": 1601221
+  },
+  "1601231": {
+    "ID": 1601231,
+    "Icon": "team_1601231_card",
+    "Name": "str_pet_name_1601231",
+    "SpeakerType": 1,
+    "TemplateID": 1601231
+  },
+  "1601261": {
+    "ID": 1601261,
+    "Icon": "team_1601261_card",
+    "Name": "str_pet_name_1601261",
+    "SpeakerType": 1,
+    "TemplateID": 1601261
+  },
+  "1601291": {
+    "ID": 1601291,
+    "Icon": "team_1601291_card",
+    "Name": "str_pet_name_1601291",
+    "SpeakerType": 1,
+    "TemplateID": 1601291
+  },
+  "1601311": {
+    "ID": 1601311,
+    "Icon": "team_1601311_card",
+    "Name": "str_pet_name_1601311",
+    "SpeakerType": 1,
+    "TemplateID": 1601311
+  },
+  "1601331": {
+    "ID": 1601331,
+    "Icon": "team_1601331_card",
+    "Name": "str_pet_name_1601331",
+    "SpeakerType": 1,
+    "TemplateID": 1601331
+  },
+  "1601341": {
+    "ID": 1601341,
+    "Icon": "team_1601341_card",
+    "Name": "str_pet_name_1601341",
+    "SpeakerType": 1,
+    "TemplateID": 1601341
+  },
+  "1601381": {
+    "ID": 1601381,
+    "Icon": "team_1601381_card",
+    "Name": "str_pet_name_1601381",
+    "SpeakerType": 1,
+    "TemplateID": 1601381
+  },
+  "1601401": {
+    "ID": 1601401,
+    "Icon": "team_1601401_card",
+    "Name": "str_pet_name_1601401",
+    "SpeakerType": 1,
+    "TemplateID": 1601401
+  },
+  "1601411": {
+    "ID": 1601411,
+    "Icon": "team_1601411_card",
+    "Name": "str_pet_name_1601411",
+    "SpeakerType": 1,
+    "TemplateID": 1601411
+  },
+  "1601431": {
+    "ID": 1601431,
+    "Icon": "team_1601431_card",
+    "Name": "str_pet_name_1601431",
+    "SpeakerType": 1,
+    "TemplateID": 1601431
+  },
+  "1601451": {
+    "ID": 1601451,
+    "Icon": "team_1601451_card",
+    "Name": "str_pet_name_1601451",
+    "SpeakerType": 1,
+    "TemplateID": 1601451
+  },
+  "1601461": {
+    "ID": 1601461,
+    "Icon": "team_1601461_card",
+    "Name": "str_pet_name_1601461",
+    "SpeakerType": 1,
+    "TemplateID": 1601461
+  },
+  "1601481": {
+    "ID": 1601481,
+    "Icon": "team_1601481_card",
+    "Name": "str_pet_name_1601481",
+    "SpeakerType": 1,
+    "TemplateID": 1601481
+  },
+  "1601501": {
+    "ID": 1601501,
+    "Icon": "team_1601501_card",
+    "Name": "str_pet_name_1601501",
+    "SpeakerType": 1,
+    "TemplateID": 1601501
+  },
+  "1601511": {
+    "ID": 1601511,
+    "Icon": "team_1601511_card",
+    "Name": "str_pet_name_1601511",
+    "SpeakerType": 1,
+    "TemplateID": 1601511
+  },
+  "1601531": {
+    "ID": 1601531,
+    "Icon": "team_1601531_card",
+    "Name": "str_pet_name_1601531",
+    "SpeakerType": 1,
+    "TemplateID": 1601531
+  },
+  "1601541": {
+    "ID": 1601541,
+    "Icon": "team_1601541_card",
+    "Name": "str_pet_name_1601541",
+    "SpeakerType": 1,
+    "TemplateID": 1601541
+  },
+  "1601551": {
+    "ID": 1601551,
+    "Icon": "team_1601551_card",
+    "Name": "str_pet_name_1601551",
+    "SpeakerType": 1,
+    "TemplateID": 1601551
+  },
+  "1601561": {
+    "ID": 1601561,
+    "Icon": "team_1601561_card",
+    "Name": "str_pet_name_1601561",
+    "SpeakerType": 1,
+    "TemplateID": 1601561
+  },
+  "1601641": {
+    "ID": 1601641,
+    "Icon": "team_1601641_card",
+    "Name": "str_pet_name_1601641",
+    "SpeakerType": 1,
+    "TemplateID": 1601641
+  },
+  "1601661": {
+    "ID": 1601661,
+    "Icon": "team_1601661_card",
+    "Name": "str_pet_name_1601661",
+    "SpeakerType": 1,
+    "TemplateID": 1601661
+  },
+  "1601671": {
+    "ID": 1601671,
+    "Icon": "team_1601671_card",
+    "Name": "str_pet_name_1601671",
+    "SpeakerType": 1,
+    "TemplateID": 1601671
+  },
+  "1601701": {
+    "ID": 1601701,
+    "Icon": "team_1601701_card",
+    "Name": "str_pet_name_1601701",
+    "SpeakerType": 1,
+    "TemplateID": 1601701
+  },
+  "1601721": {
+    "ID": 1601721,
+    "Icon": "team_1601721_card",
+    "Name": "str_pet_name_1601721",
+    "SpeakerType": 1,
+    "TemplateID": 1601721
+  },
+  "1601731": {
+    "ID": 1601731,
+    "Icon": "team_1601731_card",
+    "Name": "str_pet_name_1601731",
+    "SpeakerType": 1,
+    "TemplateID": 1601731
+  },
+  "1601751": {
+    "ID": 1601751,
+    "Icon": "team_1601751_card",
+    "Name": "str_pet_name_1601751",
+    "SpeakerType": 1,
+    "TemplateID": 1601751
+  },
+  "1601771": {
+    "ID": 1601771,
+    "Icon": "team_1601771_card",
+    "Name": "str_pet_name_1601771",
+    "SpeakerType": 1,
+    "TemplateID": 1601771
+  },
+  "1601781": {
+    "ID": 1601781,
+    "Icon": "team_1601781_card",
+    "Name": "str_pet_name_1601781",
+    "SpeakerType": 1,
+    "TemplateID": 1601781
+  },
+  "1601811": {
+    "ID": 1601811,
+    "Icon": "team_1601811_card",
+    "Name": "str_pet_name_1601811",
+    "SpeakerType": 1,
+    "TemplateID": 1601811
+  },
+  "1601821": {
+    "ID": 1601821,
+    "Icon": "team_1601821_card",
+    "Name": "str_pet_name_1601821",
+    "SpeakerType": 1,
+    "TemplateID": 1601821
+  },
+  "1601841": {
+    "ID": 1601841,
+    "Icon": "team_1601841_card",
+    "Name": "str_pet_name_1601841",
+    "SpeakerType": 1,
+    "TemplateID": 1601841
+  },
+  "1601861": {
+    "ID": 1601861,
+    "Icon": "team_1601861_card",
+    "Name": "str_pet_name_1601861",
+    "SpeakerType": 1,
+    "TemplateID": 1601861
+  },
+  "1601881": {
+    "ID": 1601881,
+    "Icon": "team_1601881_card",
+    "Name": "str_pet_name_1601881",
+    "SpeakerType": 1,
+    "TemplateID": 1601881
+  },
+  "1601891": {
+    "ID": 1601891,
+    "Icon": "team_1601891_card",
+    "Name": "str_pet_name_1601891",
+    "SpeakerType": 1,
+    "TemplateID": 1601891
+  },
+  "1601911": {
+    "ID": 1601911,
+    "Icon": "team_1601911_card",
+    "Name": "str_pet_name_1601911",
+    "SpeakerType": 1,
+    "TemplateID": 1601911
+  },
+  "1601921": {
+    "ID": 1601921,
+    "Icon": "team_1601921_card",
+    "Name": "str_pet_name_1601921",
+    "SpeakerType": 1,
+    "TemplateID": 1601921
+  },
+  "1601991": {
+    "ID": 1601991,
+    "Icon": "team_1601991_card",
+    "Name": "str_pet_name_1601991",
+    "SpeakerType": 1,
+    "TemplateID": 1601991
+  },
+  "1602011": {
+    "ID": 1602011,
+    "Icon": "team_1602011_card",
+    "Name": "str_pet_name_1602011",
+    "SpeakerType": 1,
+    "TemplateID": 1602011
+  },
+  "1602021": {
+    "ID": 1602021,
+    "Icon": "team_1602021_card",
+    "Name": "str_pet_name_1602021",
+    "SpeakerType": 1,
+    "TemplateID": 1602021
+  },
+  "1602041": {
+    "ID": 1602041,
+    "Icon": "team_1602041_card",
+    "Name": "str_pet_name_1602041",
+    "SpeakerType": 1,
+    "TemplateID": 1602041
+  },
+  "1602061": {
+    "ID": 1602061,
+    "Icon": "team_1602061_card",
+    "Name": "str_pet_name_1602061",
+    "SpeakerType": 1,
+    "TemplateID": 1602061
+  },
+  "1602071": {
+    "ID": 1602071,
+    "Icon": "team_1602071_card",
+    "Name": "str_pet_name_1602071",
+    "SpeakerType": 1,
+    "TemplateID": 1602071
+  },
+  "1602091": {
+    "ID": 1602091,
+    "Icon": "team_1602091_card",
+    "Name": "str_pet_name_1602091",
+    "SpeakerType": 1,
+    "TemplateID": 1602091
+  },
+  "1602111": {
+    "ID": 1602111,
+    "Icon": "team_1602111_card",
+    "Name": "str_pet_name_1602111",
+    "SpeakerType": 1,
+    "TemplateID": 1602111
+  },
+  "1602121": {
+    "ID": 1602121,
+    "Icon": "team_1602121_card",
+    "Name": "str_pet_name_1602121",
+    "SpeakerType": 1,
+    "TemplateID": 1602121
+  },
+  "1602141": {
+    "ID": 1602141,
+    "Icon": "team_1602141_card",
+    "Name": "str_pet_name_1602141",
+    "SpeakerType": 1,
+    "TemplateID": 1602141
+  },
+  "1602161": {
+    "ID": 1602161,
+    "Icon": "team_1602161_card",
+    "Name": "str_pet_name_1602161",
+    "SpeakerType": 1,
+    "TemplateID": 1602161
+  },
+  "1602181": {
+    "ID": 1602181,
+    "Icon": "team_1602181_card",
+    "Name": "str_pet_name_1602181",
+    "SpeakerType": 1,
+    "TemplateID": 1602181
+  },
+  "1602191": {
+    "ID": 1602191,
+    "Icon": "team_1602191_card",
+    "Name": "str_pet_name_1602191",
+    "SpeakerType": 1,
+    "TemplateID": 1602191
+  },
+  "1602211": {
+    "ID": 1602211,
+    "Icon": "team_1602211_card",
+    "Name": "str_pet_name_1602211",
+    "SpeakerType": 1,
+    "TemplateID": 1602211
+  },
+  "1602231": {
+    "ID": 1602231,
+    "Icon": "team_1602231_card",
+    "Name": "str_pet_name_1602231",
+    "SpeakerType": 1,
+    "TemplateID": 1602231
+  },
+  "1602251": {
+    "ID": 1602251,
+    "Icon": "team_1602251_card",
+    "Name": "str_pet_name_1602251",
+    "SpeakerType": 1,
+    "TemplateID": 1602251
+  },
+  "1602271": {
+    "ID": 1602271,
+    "Icon": "team_1602271_card",
+    "Name": "str_pet_name_1602271",
+    "SpeakerType": 1,
+    "TemplateID": 1602271
+  },
+  "1602291": {
+    "ID": 1602291,
+    "Icon": "team_1602291_card",
+    "Name": "str_pet_name_1602291",
+    "SpeakerType": 1,
+    "TemplateID": 1602291
+  },
+  "1602301": {
+    "ID": 1602301,
+    "Icon": "team_1602301_card",
+    "Name": "str_pet_name_1602301",
+    "SpeakerType": 1,
+    "TemplateID": 1602301
+  },
+  "1602311": {
+    "ID": 1602311,
+    "Icon": "team_1602311_card",
+    "Name": "str_pet_name_1602311",
+    "SpeakerType": 1,
+    "TemplateID": 1602311
+  },
+  "1602331": {
+    "ID": 1602331,
+    "Icon": "team_1602331_card",
+    "Name": "str_pet_name_1602331",
+    "SpeakerType": 1,
+    "TemplateID": 1602331
+  },
+  "1602341": {
+    "ID": 1602341,
+    "Icon": "team_1602341_card",
+    "Name": "str_pet_name_1602341",
+    "SpeakerType": 1,
+    "TemplateID": 1602341
+  },
+  "1602371": {
+    "ID": 1602371,
+    "Icon": "team_1602371_card",
+    "Name": "str_pet_name_1602371",
+    "SpeakerType": 1,
+    "TemplateID": 1602371
+  },
+  "1602381": {
+    "ID": 1602381,
+    "Icon": "team_1602381_card",
+    "Name": "str_pet_name_1602381",
+    "SpeakerType": 1,
+    "TemplateID": 1602381
+  },
+  "1602411": {
+    "ID": 1602411,
+    "Icon": "team_1602411_card",
+    "Name": "str_pet_name_1602411",
+    "SpeakerType": 1,
+    "TemplateID": 1602411
+  },
+  "1702361": {
+    "ID": 1702361,
+    "Icon": "team_1702361_card",
+    "Name": "str_pet_name_1702361",
+    "SpeakerType": 1,
+    "TemplateID": 1702361
+  },
+  "2100106": {
+    "ID": 2100106,
+    "Icon": "team_2100106_npccard",
+    "Name": "str_quest_chat_2100106",
+    "SpeakerType": 2,
+    "TemplateID": 0
+  },
+  "2100112": {
+    "ID": 2100112,
+    "Icon": "team_2100112_npccard",
+    "Name": "str_quest_chat_2100112",
+    "SpeakerType": 2,
+    "TemplateID": 0
+  },
+  "2100114": {
+    "ID": 2100114,
+    "Icon": "team_2100114_npccard",
+    "Name": "str_quest_chat_2100114",
+    "SpeakerType": 2,
+    "TemplateID": 0
+  },
+  "2100118": {
+    "ID": 2100118,
+    "Icon": "team_2100118_npccard",
+    "Name": "str_quest_chat_2100118",
+    "SpeakerType": 2,
+    "TemplateID": 0
+  }
+}

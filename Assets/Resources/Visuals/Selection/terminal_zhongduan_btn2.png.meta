@@ -1,0 +1,585 @@
+fileFormatVersion: 2
+guid: 542671435421da94496953a020890b72
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3280341401170688860
+    second: terminal_zhongduan_btn2_0
+  - first:
+      213: 6701913878151718086
+    second: terminal_zhongduan_btn2_1
+  - first:
+      213: 3020425725680986497
+    second: terminal_zhongduan_btn2_2
+  - first:
+      213: -4278443698114007079
+    second: terminal_zhongduan_btn2_3
+  - first:
+      213: -3449743098469727554
+    second: terminal_zhongduan_btn2_4
+  - first:
+      213: -298550406513884417
+    second: terminal_zhongduan_btn2_5
+  - first:
+      213: -950154342268621058
+    second: terminal_zhongduan_btn2_6
+  - first:
+      213: 239617856631254438
+    second: terminal_zhongduan_btn2_7
+  - first:
+      213: 3735894178413568546
+    second: terminal_zhongduan_btn2_8
+  - first:
+      213: -8499311391574503174
+    second: terminal_zhongduan_btn2_9
+  - first:
+      213: 7882539575516588335
+    second: terminal_zhongduan_btn2_10
+  - first:
+      213: -8545218187254590859
+    second: terminal_zhongduan_btn2_11
+  - first:
+      213: 3551737896749582475
+    second: terminal_zhongduan_btn2_12
+  - first:
+      213: 5812611193433866103
+    second: terminal_zhongduan_btn2_13
+  - first:
+      213: -533755701419381092
+    second: terminal_zhongduan_btn2_14
+  - first:
+      213: 2204256904786055110
+    second: terminal_zhongduan_btn2_15
+  - first:
+      213: -2949504813683086831
+    second: terminal_zhongduan_btn2_16
+  - first:
+      213: -6567548201757812314
+    second: terminal_zhongduan_btn2_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: terminal_zhongduan_btn2_0
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 142
+        width: 19
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5b39c6df1d168d20800000000000000
+      internalID: 3280341401170688860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal_zhongduan_btn2_1
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 142
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c46e76f92bf10d50800000000000000
+      internalID: 6701913878151718086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal_zhongduan_btn2_2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 142
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 189aaa1d135bae920800000000000000
+      internalID: 3020425725680986497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal_zhongduan_btn2_3
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 142
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dfe76eef1aef94c0800000000000000
+      internalID: -4278443698114007079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal_zhongduan_btn2_4
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 142
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb24b51fdec0020d0800000000000000
+      internalID: -3449743098469727554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal_zhongduan_btn2_5
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 142
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff20130bcf55bdbf0800000000000000
+      internalID: -298550406513884417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal_zhongduan_btn2_6
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 142
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efea84be8af50d2f0800000000000000
+      internalID: -950154342268621058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal_zhongduan_btn2_7
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 142
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ada85acb2b435300800000000000000
+      internalID: 239617856631254438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal_zhongduan_btn2_8
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 142
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2226ace26ff88d330800000000000000
+      internalID: 3735894178413568546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal_zhongduan_btn2_9
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 142
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af055c512516c0a80800000000000000
+      internalID: -8499311391574503174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal_zhongduan_btn2_10
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 142
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f29ef9efaf7646d60800000000000000
+      internalID: 7882539575516588335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal_zhongduan_btn2_11
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 142
+        width: 41
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5729b7c4559496980800000000000000
+      internalID: -8545218187254590859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal_zhongduan_btn2_12
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 142
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b884d079cce4a4130800000000000000
+      internalID: 3551737896749582475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal_zhongduan_btn2_13
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 142
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77fb51a751b8aa050800000000000000
+      internalID: 5812611193433866103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal_zhongduan_btn2_14
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 142
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9eee0c7408b798f0800000000000000
+      internalID: -533755701419381092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal_zhongduan_btn2_15
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 142
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cf897be9f7179e10800000000000000
+      internalID: 2204256904786055110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal_zhongduan_btn2_16
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 142
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11a6d15cff04117d0800000000000000
+      internalID: -2949504813683086831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terminal_zhongduan_btn2_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 533
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a958f4f4b16bd4a0800000000000000
+      internalID: -6567548201757812314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      terminal_zhongduan_btn2_0: 3280341401170688860
+      terminal_zhongduan_btn2_1: 6701913878151718086
+      terminal_zhongduan_btn2_10: 7882539575516588335
+      terminal_zhongduan_btn2_11: -8545218187254590859
+      terminal_zhongduan_btn2_12: 3551737896749582475
+      terminal_zhongduan_btn2_13: 5812611193433866103
+      terminal_zhongduan_btn2_14: -533755701419381092
+      terminal_zhongduan_btn2_15: 2204256904786055110
+      terminal_zhongduan_btn2_16: -2949504813683086831
+      terminal_zhongduan_btn2_17: -6567548201757812314
+      terminal_zhongduan_btn2_2: 3020425725680986497
+      terminal_zhongduan_btn2_3: -4278443698114007079
+      terminal_zhongduan_btn2_4: -3449743098469727554
+      terminal_zhongduan_btn2_5: -298550406513884417
+      terminal_zhongduan_btn2_6: -950154342268621058
+      terminal_zhongduan_btn2_7: 239617856631254438
+      terminal_zhongduan_btn2_8: 3735894178413568546
+      terminal_zhongduan_btn2_9: -8499311391574503174
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
