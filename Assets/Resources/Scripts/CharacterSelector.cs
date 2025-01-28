@@ -8,6 +8,7 @@ public class CharacterSelector : MonoBehaviour
     public int activeCharId;
     public List<int> activeCharTerminals;
     [SerializeField] TMPro.TextMeshProUGUI charText;
+    [SerializeField] UnityEngine.UI.Image charPhoto;
     [SerializeField] Transform terminalStoryBase;
     [SerializeField] Transform terminalStoryWindow;
     private ConversationResources conRes;
@@ -17,7 +18,7 @@ public class CharacterSelector : MonoBehaviour
     {
         conRes = GameObject.FindWithTag("Resource").GetComponent<ConversationResources>();
     }
-    public void newActive(int activeId, List<int>terminalStories)
+    public void newActive(int activeId, List<int>terminalStories, Sprite aurorianPhoto)
     {
         activeCharId = activeId;
         activeCharTerminals = terminalStories;
@@ -29,6 +30,7 @@ public class CharacterSelector : MonoBehaviour
         {
             charText.text = "UNKNOWN";
         }
+        charPhoto.sprite = aurorianPhoto;
         foreach(Transform child in this.transform)
         {
             CharacterDetails temp = child.GetComponent<CharacterDetails>();

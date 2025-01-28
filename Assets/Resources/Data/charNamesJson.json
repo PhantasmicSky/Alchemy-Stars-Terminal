@@ -196,7 +196,7 @@
   "1602191":"Istvan: Scarred Pith"  ,
   "1502201":"Vergil"  ,
   "1602211":"Algol"  ,
-  "1602231":"Chen'Ni"  ,
+  "1602231":"Chen'ni"  ,
   "1502241":"Luo Song"  ,
   "1602251":"Tiare"  ,
   "1202261":"Prince Lilypad"  ,
@@ -212,5 +212,10 @@
   "1702361":"Claymore"  ,
   "1602371":"Maya"  ,
   "1602381":"Mithra"  ,
-  "1602411":"Pepita"  
+  "1602411":"Pepita",
+  "1600382": "Gronru [NPC]",
+  "2100106": "Mendelson",
+  "2100112": "Sheol [NPC]",
+  "2100114": "Bopper [NPC]",
+  "2100118": "???"
 }

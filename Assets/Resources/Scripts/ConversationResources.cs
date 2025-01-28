@@ -51,7 +51,7 @@ public class ConversationResources : MonoBehaviour
         //str_quest_chat_17767001
         //Debug.Log(conversationContent["str_quest_chat_17767001"]);
         //Debug.Log(conversationContent["str_quest_chat01_19885007"]);
-        testPrint(17767);
+        //testPrint(17767);
     }
     private void Start()
     {

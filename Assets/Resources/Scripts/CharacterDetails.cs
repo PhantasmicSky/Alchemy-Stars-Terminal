@@ -11,6 +11,7 @@ public class CharacterDetails : MonoBehaviour, IPointerEnterHandler, IPointerExi
     [SerializeField] public int charId;
     [SerializeField] private string charNameStr;
     [SerializeField] private GameObject[] activeIndicators;
+    [SerializeField] private UnityEngine.UI.Image aurorianPhoto;
     private List<int> conversationCollection = new List<int>();
     private bool active = false;
     public void setupEntry(int resId, string charStr)
@@ -19,6 +20,14 @@ public class CharacterDetails : MonoBehaviour, IPointerEnterHandler, IPointerExi
         charName.text = charStr;
         charEcho.text = charStr.ToUpper();
         charId = resId;
+        if (charId / 1000000 == 1)
+        {
+            aurorianPhoto.sprite = Resources.Load<Sprite>("Visuals/AurorianPhotos/team_"+charId.ToString()+"_card_scale");
+        }
+        else
+        {
+            aurorianPhoto.sprite = Resources.Load<Sprite>("Visuals/AurorianPhotos/team_" + charId.ToString() + "_npccard_scale");
+        }
     }
     public void addStoryId(int storyId)
     {
@@ -57,7 +66,7 @@ public class CharacterDetails : MonoBehaviour, IPointerEnterHandler, IPointerExi
         Debug.Log("click!");
         this.transform.GetChild(0).GetComponent<Transform>().localPosition = new Vector3(30.0f, 0f, 0f);
         setActiveness(true);
-        this.transform.GetComponentInParent<CharacterSelector>().newActive(charId, conversationCollection);
+        this.transform.GetComponentInParent<CharacterSelector>().newActive(charId, conversationCollection,aurorianPhoto.sprite);
     }
     public bool isActive() 
     {
