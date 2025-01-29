@@ -63,7 +63,7 @@ public class CharacterDetails : MonoBehaviour, IPointerEnterHandler, IPointerExi
 
     public void OnPointerClick(PointerEventData eventData)
     {
-        Debug.Log("click!");
+        //Debug.Log("click!");
         this.transform.GetChild(0).GetComponent<Transform>().localPosition = new Vector3(30.0f, 0f, 0f);
         setActiveness(true);
         this.transform.GetComponentInParent<CharacterSelector>().newActive(charId, conversationCollection,aurorianPhoto.sprite);

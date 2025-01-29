@@ -89,15 +89,15 @@ public class ConversationResources : MonoBehaviour
             }
             else
             {
-                Debug.Log("Navigator : " + conversationContent[conversationFlow[currLine].ChatWord]);
+                //Debug.Log("Navigator : " + conversationContent[conversationFlow[currLine].ChatWord]);
             }
             if (conversationFlow[currLine].AnswerID.Count > 0)
             {
-                Debug.Log("Branching Path:");
+                //Debug.Log("Branching Path:");
                 int count = 0;
                 foreach(int lineNum in conversationFlow[currLine].AnswerID)
                 {
-                    Debug.Log(count.ToString() + " -> " + conversationContent[conversationFlow[conversationFlow[currLine].AnswerID[count]].ChatWord]);
+                    //Debug.Log(count.ToString() + " -> " + conversationContent[conversationFlow[conversationFlow[currLine].AnswerID[count]].ChatWord]);
                     count++;
                 }
                 string answer = Console.ReadLine();

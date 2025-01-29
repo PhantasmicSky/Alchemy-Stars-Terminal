@@ -34,7 +34,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 445, y: 0}
+  m_AnchoredPosition: {x: 445, y: -17.5}
   m_SizeDelta: {x: 141, y: 25}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &1183775975629361920
@@ -116,9 +116,17 @@ PrefabInstance:
       value: NavigatorBox
       objectReference: {fileID: 0}
     - target: {fileID: 4901183434251903241, guid: c2486fed1c5a80c48bda5a21f963513f, type: 3}
+      propertyPath: aurorianName
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 4901183434251903241, guid: c2486fed1c5a80c48bda5a21f963513f, type: 3}
       propertyPath: aurorianTalk
       value: 
       objectReference: {fileID: 9114104958594346995}
+    - target: {fileID: 5199730884272791824, guid: c2486fed1c5a80c48bda5a21f963513f, type: 3}
+      propertyPath: m_text
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 5199730884272791824, guid: c2486fed1c5a80c48bda5a21f963513f, type: 3}
       propertyPath: m_HorizontalAlignment
       value: 4

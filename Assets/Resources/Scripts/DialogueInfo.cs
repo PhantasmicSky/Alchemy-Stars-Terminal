@@ -149,7 +149,7 @@ public class DialogueInfo: MonoBehaviour
         replyButton.GetComponent<UnityEngine.UI.Button>().interactable = false;
         currentDialogueId = reply;
         awaitingResponse = false;
-        Debug.Log(currentDialogueId);
+        //Debug.Log(currentDialogueId);
         StartCoroutine(printDialogueBox());
     }
     public void closeTerminal()

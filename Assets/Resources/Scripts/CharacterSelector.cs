@@ -14,12 +14,14 @@ public class CharacterSelector : MonoBehaviour
     private ConversationResources conRes;
     [SerializeField] GameObject terminalButtonPrefab;
     [SerializeField] GameObject terminalPrefab;
+    private string naviName;
     public void Awake()
     {
         conRes = GameObject.FindWithTag("Resource").GetComponent<ConversationResources>();
     }
     public void newActive(int activeId, List<int>terminalStories, Sprite aurorianPhoto)
     {
+        naviName = conRes.getNaviName();
         activeCharId = activeId;
         activeCharTerminals = terminalStories;
         try
@@ -31,7 +33,7 @@ public class CharacterSelector : MonoBehaviour
             charText.text = "UNKNOWN";
         }
         charPhoto.sprite = aurorianPhoto;
-        foreach(Transform child in this.transform)
+        foreach (Transform child in this.transform)
         {
             CharacterDetails temp = child.GetComponent<CharacterDetails>();
             if(activeId != temp.charId)
@@ -61,13 +63,15 @@ public class CharacterSelector : MonoBehaviour
         foreach (int terminalId in activeCharTerminals)
         {
             GameObject tempBtn = Instantiate(terminalButtonPrefab, terminalStoryBase);
+            string previewString = conRes.conversationContent[conRes.conversationFlow[conRes.conversationStart[terminalId].FirstWord].ChatWord];
+            previewString = previewString.Replace("PlayerName", naviName);
             try
             {
-                tempBtn.GetComponent<ButtonIdentity>().setBtnString(terminalId, conRes.characterNames[activeId], activeId);
+                tempBtn.GetComponent<ButtonIdentity>().setBtnString(terminalId, conRes.characterNames[activeId], activeId, previewString);
             }
             catch
             {
-                tempBtn.GetComponent<ButtonIdentity>().setBtnString(terminalId, "UNKNOWN", activeId);
+                tempBtn.GetComponent<ButtonIdentity>().setBtnString(terminalId, "UNKNOWN", activeId, previewString);
             }
         }
     }

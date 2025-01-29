@@ -8,6 +8,30 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 29637629727053566, guid: fe3686290691f9a4faf4340020e74d5d, type: 3}
+      propertyPath: m_AnchorMax.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 29637629727053566, guid: fe3686290691f9a4faf4340020e74d5d, type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 29637629727053566, guid: fe3686290691f9a4faf4340020e74d5d, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 29637629727053566, guid: fe3686290691f9a4faf4340020e74d5d, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 29637629727053566, guid: fe3686290691f9a4faf4340020e74d5d, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 29637629727053566, guid: fe3686290691f9a4faf4340020e74d5d, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0.0000038146973
+      objectReference: {fileID: 0}
     - target: {fileID: 578267814157446575, guid: fe3686290691f9a4faf4340020e74d5d, type: 3}
       propertyPath: m_Pivot.x
       value: 0.5
@@ -98,19 +122,19 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6179829661969820789, guid: fe3686290691f9a4faf4340020e74d5d, type: 3}
       propertyPath: m_margin.w
-      value: 5
+      value: 10
       objectReference: {fileID: 0}
     - target: {fileID: 6179829661969820789, guid: fe3686290691f9a4faf4340020e74d5d, type: 3}
       propertyPath: m_margin.x
-      value: 5
+      value: 10
       objectReference: {fileID: 0}
     - target: {fileID: 6179829661969820789, guid: fe3686290691f9a4faf4340020e74d5d, type: 3}
       propertyPath: m_margin.y
-      value: 5
+      value: 10
       objectReference: {fileID: 0}
     - target: {fileID: 6179829661969820789, guid: fe3686290691f9a4faf4340020e74d5d, type: 3}
       propertyPath: m_margin.z
-      value: 5
+      value: 10
       objectReference: {fileID: 0}
     - target: {fileID: 6179829661969820789, guid: fe3686290691f9a4faf4340020e74d5d, type: 3}
       propertyPath: m_fontSizeBase
@@ -123,6 +147,10 @@ PrefabInstance:
     - target: {fileID: 7965653219819889205, guid: fe3686290691f9a4faf4340020e74d5d, type: 3}
       propertyPath: m_Name
       value: ButtonReply
+      objectReference: {fileID: 0}
+    - target: {fileID: 8527941335652936861, guid: fe3686290691f9a4faf4340020e74d5d, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []

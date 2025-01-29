@@ -6,17 +6,19 @@ public class ButtonIdentity: MonoBehaviour
     public string btnName;
     public int btnCharId;
     [SerializeField] private TMPro.TextMeshProUGUI btnText;
+    [SerializeField] private TMPro.TextMeshProUGUI btnTextPreview;
     [SerializeField] private DialogueInfo dialogueRef;
 
 
 
-    public void setBtnString(int btId, string btName, int btCharId)
+    public void setBtnString(int btId, string btName, int btCharId, string preview)
     {
         this.GetComponent<UnityEngine.UI.Button>().onClick.AddListener(showStory);
         btnId = btId;
         btnName = btName;
         btnCharId = btCharId;
         btnText.text = btId.ToString();
+        btnTextPreview.text = preview;
     }
     public void setBtnReply(int btId, string btText, DialogueInfo di){
         this.GetComponent<UnityEngine.UI.Button>().onClick.AddListener(replyToTerminal);
